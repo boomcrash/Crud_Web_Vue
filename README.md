@@ -28,7 +28,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 json-server db.json --routes routes.json
 ```
+![image](https://user-images.githubusercontent.com/64045193/184552804-ac11a932-6be4-46fd-af6a-24d10ac7e8fe.png)
 
+ahora si abrre el navegador en el localhost:puerto
 
 ## resultado tras ejecucion
 ### crear publicaciones
