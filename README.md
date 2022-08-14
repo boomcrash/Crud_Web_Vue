@@ -31,11 +31,13 @@ json-server db.json --routes routes.json
 
 
 ## resultado tras ejecucion
-crear publicaciones
+### crear publicaciones
+
 ![image](https://user-images.githubusercontent.com/64045193/184552726-62bc3fc7-463d-42fe-b3a7-74412460e351.png)
 
 
 ![image](https://user-images.githubusercontent.com/64045193/184552736-9763683f-85ae-43b7-94ac-9a2c7b0859ec.png)
 
-todas las publicaciones
+### todas las publicaciones
+
 ![image](https://user-images.githubusercontent.com/64045193/184552751-8e8e94bb-f416-4c63-bad1-38b624eb3c48.png)
