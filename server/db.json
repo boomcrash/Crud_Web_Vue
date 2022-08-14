@@ -1,0 +1,503 @@
+{
+  "usuarios": [
+    {
+      "name": "lorenzo",
+      "lastName": "addsf",
+      "user": "lorenzo",
+      "email": "name.gmiada",
+      "password": "123",
+      "dni": "2323",
+      "phone": "66423",
+      "type": "cliente",
+      "imageProfile": "https://imagen.miapp.io//uploads/20211112/13f0892d5f7d5b4de17c1c663907807b1469b9fe.jpg",
+      "urlToImageBackground": "",
+      "id": 1
+    },
+    {
+      "name": "a",
+      "lastName": "a",
+      "user": "a",
+      "email": "a",
+      "password": "123",
+      "dni": "4",
+      "phone": "34",
+      "type": "cliente",
+      "imageProfile": "https://imagen.miapp.io//uploads/20211112/13f0892d5f7d5b4de17c1c663907807b1469b9fe.jpg",
+      "urlToImageBackground": "",
+      "id": 2
+    },
+    {
+      "name": "f",
+      "lastName": "f",
+      "user": "f",
+      "email": "ff",
+      "password": "123",
+      "dni": "6565",
+      "phone": "5465",
+      "type": "cliente",
+      "imageProfile": "https://imagen.miapp.io//uploads/20211112/13f0892d5f7d5b4de17c1c663907807b1469b9fe.jpg",
+      "urlToImageBackground": "",
+      "id": 3
+    },
+    {
+      "name": "ga",
+      "lastName": "sdssd",
+      "user": "ga",
+      "email": "dsfdsf",
+      "password": "123",
+      "dni": "87654",
+      "phone": "65432",
+      "registerId": 16,
+      "type": "cliente",
+      "imageProfile": "https://imagen.miapp.io//uploads/20211112/13f0892d5f7d5b4de17c1c663907807b1469b9fe.jpg",
+      "urlToImageBackground": "",
+      "id": 4
+    }
+  ],
+  "publicaciones": [
+    {
+      "userId": 1,
+      "title": "INTELIGENCIA ARTIFICIAL",
+      "comment": "La inteligencia artificial es poderosa",
+      "date": "11-01-2022",
+      "image": "https://th.bing.com/th/id/R.63f9e7769f5d2950a5dd437d183dc3b7?rik=IdjrbliolRXfig&pid=ImgRaw&r=0",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "userId": 4,
+      "title": "Do you like to contact me in 3 hour?",
+      "comment": "I am so cute ",
+      "date": "2021-11-20 00:21:57",
+      "image": "https://th.bing.com/th/id/OIP.J7inAng23rq3M79nM8-xIwHaEK?pid=ImgDet&rs=1"
+    },
+    {
+      "userId": 3,
+      "title": "Hi!",
+      "comment": "I am in",
+      "date": "2021-11-17 12:47:03",
+      "image": "https://imgs-akamai.mnstatic.com/c1/7e/c17e524407ffce6c05d9cebd2187e3fe.jpg?quality=75&format=pjpg&fit=bounds&width=980&height=880",
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "title": "I am so available to meet new people",
+      "comment": "I am in",
+      "date": "2021-11-17 12:49:40",
+      "image": "https://imgs-akamai.mnstatic.com/c1/7e/c17e524407ffce6c05d9cebd2187e3fe.jpg?quality=75&format=pjpg&fit=bounds&width=980&height=880",
+      "id": 9
+    },
+    {
+      "userId": 3,
+      "title": "I am a little crazy",
+      "comment": "I need a date in: ",
+      "date": "2021-11-20 01:53:02",
+      "image": "https://th.bing.com/th/id/OIP.J7inAng23rq3M79nM8-xIwHaEK?pid=ImgDet&rs=1",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "userId": 4,
+      "title": "requiero pareja",
+      "comment": "nada",
+      "date": "2021-12-02 00:37:45",
+      "image": "https://imagen.miapp.io//uploads/20211112/13f0892d5f7d5b4de17c1c663907807b1469b9fe.jpg"
+    },
+    {
+      "userId": 1,
+      "title": "DEEP LEARNING",
+      "comment": "Aprendizaje Profundo",
+      "date": "11-01-2022",
+      "image": "https://th.bing.com/th/id/R.b879215845d133aa1e807b3875cc2bba?rik=2r3IzRHfz9Tn2A&pid=ImgRaw&r=0&sres=1&sresct=1",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "TRANSFER LEARNING",
+      "comment": "Aprendizaje En Redes",
+      "date": "11-01-2022",
+      "image": "https://miro.medium.com/max/638/1*mA1sUreCxnl-65ljlaXEcA.jpeg",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "TIPOS DE APRENDIZAJE",
+      "comment": "Supervisado, No Supervisado, Refuerzo",
+      "date": "11-01-2022",
+      "image": "https://miro.medium.com/max/899/1*9Eu_-DDMZ_bP_t94_MMEYA.png",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "MACHINE LEARNING",
+      "comment": "Automatización de procesos",
+      "date": "11-01-2022",
+      "image": "https://th.bing.com/th/id/R.c313dfb3576bc7636254e595d23cf078?rik=KrkJzWRTwVqk5g&pid=ImgRaw&r=0",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "CAMPEONES",
+      "comment": "LOS MEJORES CAMPEONES",
+      "date": "11-01-2022",
+      "image": "https://glocal.com.mx/wp-content/uploads/2020/11/Glocal-Deportes-10-11-2020-Fase-Final-Liga-Campeones-Orlando-scaled.jpg",
+      "id": 19
+    }
+  ],
+  "reserva": [
+    {
+      "dateTime": "2021-11-20 23:51:05",
+      "amount": 45,
+      "approved": false,
+      "message": "Hi, i like to meet you",
+      "publication_id": 9,
+      "user_id_at": 4,
+      "user_id_from": 1,
+      "id": 3
+    },
+    {
+      "dateTime": "2021-11-21 00:05:15",
+      "amount": 18,
+      "approved": true,
+      "message": "I have to go out with someone special",
+      "publication_id": 7,
+      "user_id_at": 6,
+      "user_id_from": 1,
+      "id": 4
+    },
+    {
+      "dateTime": "2021-11-21 00:38:15",
+      "amount": 12,
+      "approved": false,
+      "message": "I like crazy people",
+      "publication_id": 11,
+      "user_id_at": 4,
+      "user_id_from": 1,
+      "id": 5
+    },
+    {
+      "dateTime": "2021-11-21 01:31:26",
+      "amount": 12,
+      "approved": false,
+      "message": "I want to see you!",
+      "publication_id": 1,
+      "user_id_at": 3,
+      "user_id_from": 1,
+      "id": 6
+    },
+    {
+      "dateTime": "2021-11-21 01:32:47",
+      "amount": 20,
+      "approved": false,
+      "message": "I wanna se ya",
+      "publication_id": 9,
+      "user_id_at": 2,
+      "user_id_from": 1,
+      "id": 7
+    },
+    {
+      "dateTime": "2021-11-21 01:33:02",
+      "amount": 60,
+      "approved": false,
+      "message": "Call me maybe",
+      "publication_id": 8,
+      "user_id_at": 3,
+      "user_id_from": 1,
+      "id": 8
+    },
+    {
+      "dateTime": "2021-11-21 01:33:22",
+      "amount": 89,
+      "approved": true,
+      "message": "I like you",
+      "publication_id": 11,
+      "user_id_at": 10,
+      "user_id_from": 5,
+      "id": 9
+    },
+    {
+      "dateTime": "2021-11-22 14:20:42",
+      "amount": 90,
+      "approved": false,
+      "message": "I like you",
+      "publication_id": 8,
+      "user_id_at": 6,
+      "user_id_from": 4,
+      "id": 10
+    },
+    {
+      "dateTime": "2021-11-22 15:50:05",
+      "amount": 78,
+      "approved": false,
+      "message": "I know who you are",
+      "publication_id": 8,
+      "user_id_at": 6,
+      "user_id_from": 4,
+      "id": 11
+    },
+    {
+      "dateTime": "2021-12-01 17:17:55",
+      "amount": 7,
+      "approved": false,
+      "message": "hi",
+      "publication_id": 2,
+      "user_id_at": 1,
+      "user_id_from": 6,
+      "id": 12
+    },
+    {
+      "dateTime": "2021-12-01 20:19:18",
+      "amount": 14,
+      "approved": true,
+      "message": "Hi, i like yo, i hope your answer",
+      "publication_id": 3,
+      "user_id_at": 4,
+      "user_id_from": 10,
+      "id": 13
+    },
+    {
+      "dateTime": "2021-12-01 20:49:43",
+      "amount": 86,
+      "approved": false,
+      "message": "gggjghgfgf",
+      "publication_id": 1,
+      "user_id_at": 2,
+      "user_id_from": 10,
+      "id": 14
+    },
+    {
+      "dateTime": "2021-12-01 20:49:56",
+      "amount": 12,
+      "approved": false,
+      "message": "oiuhgfdx",
+      "publication_id": 10,
+      "user_id_at": 4,
+      "user_id_from": 10,
+      "id": 15
+    },
+    {
+      "dateTime": "2021-12-02 17:24:42",
+      "amount": 75,
+      "approved": false,
+      "message": "zxfdyg",
+      "publication_id": 2,
+      "user_id_at": 1,
+      "user_id_from": 4,
+      "id": 16
+    },
+    {
+      "dateTime": "21-02-2010",
+      "amount": 100,
+      "approved": false,
+      "message": "please, go out with me",
+      "publication_id": 13,
+      "user_id_at": 5,
+      "user_id_from": 1,
+      "id": 18
+    },
+    {
+      "dateTime": "21-02-2010",
+      "amount": 11,
+      "approved": false,
+      "message": "hi, new booking",
+      "publication_id": 9,
+      "user_id_at": 2,
+      "user_id_from": 1,
+      "id": 20
+    },
+    {
+      "fecha": "12-01-2022",
+      "precio": 100,
+      "aproved": false,
+      "message": "esta muy bueno el evento",
+      "publication_id": 1,
+      "user_id_from": 1,
+      "id": 21
+    }
+  ],
+  "advertencias": [
+    {
+      "id": 1,
+      "userId": 1,
+      "date": "12-08-2021",
+      "title": "New opening of our local",
+      "description": "only a formal description",
+      "image": "https://imagen.miapp.io//uploads/20211112/b2b795e846111d519c41d5ba39b0ae97122867a7.jpg",
+      "promotion": true,
+      "price": 120,
+      "discount": 19,
+      "sold": false
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.Dt72vORAZcBFNalaB3JjJgHaFj?pid=ImgDet&rs=1",
+      "title": "Coffe for you",
+      "userId": 1,
+      "date": "2021-12-02 14:47:20",
+      "promotion": true,
+      "discount": 21,
+      "description": "new coffe",
+      "price": 12,
+      "sold": false,
+      "id": 8
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.AX9uV9aa7qdIAy9f-e9iIQHaE8?pid=ImgDet&rs=1",
+      "title": "New gift foy you",
+      "userId": 2,
+      "date": "2021-12-02 14:52:09",
+      "promotion": true,
+      "discount": 10,
+      "description": "only the best gifts for anyone",
+      "price": 89,
+      "sold": false,
+      "id": 9
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.AHo8peqmg2Lnbnwbpt6fjQHaHa?pid=ImgDet&rs=1",
+      "title": "Hi, new advertisement",
+      "userId": 3,
+      "date": "2021-12-02 16:41:06",
+      "promotion": true,
+      "discount": 10,
+      "description": "new gloves",
+      "price": 123,
+      "sold": false,
+      "id": 10
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.AHo8peqmg2Lnbnwbpt6fjQHaHa?pid=ImgDet&rs=1",
+      "title": "opening",
+      "userId": 4,
+      "date": "2021-12-02 16:42:48",
+      "promotion": true,
+      "discount": 0,
+      "description": "ddfdf",
+      "price": 12,
+      "sold": false,
+      "id": 11
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.VebnXsjqF3RpgAmlxRNAWwHaHS?pid=ImgDet&w=500&h=492&rs=1",
+      "title": "My own Advertisement",
+      "userId": 1,
+      "date": "2021-12-02 16:42:48",
+      "promotion": "false",
+      "discount": 0,
+      "description": "only for lovers",
+      "price": "876",
+      "sold": false,
+      "id": 14
+    },
+    {
+      "image": "https://imagen.miapp.io//uploads/20211112/13f0892d5f7d5b4de17c1c663907807b1469b9fe.jpg",
+      "title": "dsffdsdfs",
+      "userId": 1,
+      "date": "2021-12-02 16:42:48",
+      "promotion": "true",
+      "discount": "23",
+      "description": "dsffdsgsg",
+      "price": "7654",
+      "sold": false,
+      "id": 15
+    },
+    {
+      "image": "https://imagen.miapp.io//uploads/20211112/13f0892d5f7d5b4de17c1c663907807b1469b9fe.jpg",
+      "title": "hola",
+      "userId": 1,
+      "date": "2021-12-02 16:42:48",
+      "promotion": "true",
+      "discount": "5",
+      "description": "dssd",
+      "price": "766",
+      "sold": false,
+      "id": 16
+    }
+  ],
+  "pagos": [
+    {
+      "id": 1,
+      "card": "1wqsder34",
+      "date": "08-09-2021",
+      "advertisementId": 2,
+      "price": 90
+    },
+    {
+      "date": "2021-12-02 14:13:56",
+      "price": 4,
+      "card": "12345678",
+      "id": 2
+    },
+    {
+      "date": "2021-12-02 14:22:07",
+      "price": 55,
+      "card": "123456",
+      "id": 3
+    },
+    {
+      "date": "2021-12-02 14:23:56",
+      "price": 12,
+      "card": "4321",
+      "id": 4
+    },
+    {
+      "date": "2021-12-02 14:27:46",
+      "price": 12,
+      "card": "76543",
+      "id": 5
+    },
+    {
+      "date": "2021-12-02 14:32:21",
+      "price": 123,
+      "card": "234567",
+      "id": 6
+    },
+    {
+      "date": "2021-12-02 14:35:31",
+      "price": 123,
+      "card": "3232",
+      "id": 7
+    },
+    {
+      "date": "2021-12-02 14:38:22",
+      "price": 334,
+      "card": "2323",
+      "id": 8
+    },
+    {
+      "date": "2021-12-02 14:39:59",
+      "price": 123,
+      "card": "675432ew",
+      "id": 9
+    },
+    {
+      "date": "2021-12-02 14:47:20",
+      "price": 12,
+      "card": "1qwe4",
+      "id": 10
+    },
+    {
+      "date": "2021-12-02 14:52:09",
+      "price": 89,
+      "card": "123ergvddf",
+      "id": 11
+    },
+    {
+      "date": "2021-12-02 15:11:50",
+      "price": 876,
+      "card": "12345676543",
+      "id": 12
+    },
+    {
+      "date": "2021-12-02 16:41:06",
+      "price": 123,
+      "card": "234566543",
+      "id": 13
+    },
+    {
+      "date": "2021-12-02 16:42:48",
+      "price": 12,
+      "card": "43434",
+      "id": 14
+    }
+  ]
+}

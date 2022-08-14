@@ -1,13 +1,13 @@
 <template>
-$END$
+
 </template>
 
 <script>
 export default {
-name: "Perfil"
+  name: "Perfil"
 }
 </script>
 
 <style scoped>
-
+HOLA
 </style>
